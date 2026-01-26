@@ -9,7 +9,7 @@ assert(tape.isReady and tape.isReady(),"No tape inserted")
 assert(tape.getSize,"Tape API missing getSize()")
 
 -- args
-local speed,vol=1.0,1.0
+local speed,vol=1.4,1.0
 local inf=false
 local loops=1
 local ui=0.20
